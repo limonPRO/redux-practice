@@ -19,7 +19,7 @@ const initailCounterState={
 }
 
 # 1. defineing Action 
-# Action is a object . it has a type  and payload (for data transfer).
+# Action is an object . it has a type  and payload (for data transfer).
 
 # increment Counter
 const incrementConunter=()=>{
