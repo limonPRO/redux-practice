@@ -93,6 +93,6 @@ store.subscribe(() => {
 // store.dispatch(incrementCounterAction());
 // store.dispatch(decrementCounterAction());
 // store.dispatch(incrementCounterByValue(5));
-store.dispatch(addUser("khushi"));
-store.dispatch(addUser("Aysha"));
+store.dispatch(addUser("name1"));
+store.dispatch(addUser("name2"));
 
